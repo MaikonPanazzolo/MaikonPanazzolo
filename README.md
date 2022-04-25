@@ -23,3 +23,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit&link=www.linkedin.com/in/maikon-panazzolo-627532145)](www.linkedin.com/in/maikon-panazzolo-627532145) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vcviuomaikao/)](https://www.instagram.com/vcviuomaikao/)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
