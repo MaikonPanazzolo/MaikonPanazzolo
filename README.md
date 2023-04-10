@@ -2,13 +2,13 @@
 
 - 🧔 Desenvolvedor WEB pleno
 - 👔 Atualmente trabalhando em projetos como full-stack
-- 🎓 Finalizando Análise e Desenvolvimento de Sistemas
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 ### Hi there, welcome, I'm Maikon and here you gonna know a little about me 👋
 
 - 🧔 Full WEB developer
 - 👔 Working in projects as full-stack
-- 🎓 Finishing Systems Analysis and Development
+- 🎓 Graduated in Systems Analysis and Development
 
 <br />
 
