@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo, eu sou o Maikon e aqui você vai ver um pouco sobre mim 👋
 
-- 🧔 Desenvolvedor WEB pleno
+- 🧔 Desenvolvedor WEB sênior
 - 👔 Atualmente trabalhando em projetos como full-stack
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 
